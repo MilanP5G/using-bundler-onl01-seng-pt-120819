@@ -10,7 +10,7 @@ group :development do
 gem "pry"
 end
 
-group :default do
+group :test do
   gem "rspec"
 end 
 
